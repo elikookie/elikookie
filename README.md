@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elikcookie&label=Profile%20views&color=0e75b6&style=flat" alt="elikcookie" /> </p>
 
-- 👀 I’m interested in **game development and machine learning**
+- 👀 I’m interested in **mobile development (kotlin) and AI**
 
 <p align="left">
 </p>
