@@ -6,7 +6,7 @@
 <p align="center">👀 I’m currently interested in Mobile Development (Kotlin/Jetpack Compose) 👀</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elicookie&show_icons=true&locale=en&layout=compact&hide=html,javascript,css" alt="elikcookie" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elikookie&show_icons=true&locale=en&layout=compact&hide=html,javascript,css" alt="elikcookie" />
 </p>
 
 <p align="center"> 
